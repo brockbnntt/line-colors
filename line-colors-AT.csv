@@ -76,3 +76,11 @@ vvk-kmg,8,#c9ac32,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
 vvk-kmg,9,#766f35,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
 vvk-kmg,10,#ffffff,#19627f,#19627f,circle,,01,KMG Klagenfurt Mobil GmbH
 vvk-kmg,20,#ffffff,#3592aa,#3592aa,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-oebb,REX1,#03a1de,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vvk-oebb,S1,#16489f,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vvk-oebb,S2,#3b8475,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vvk-oebb,S3,#e36f27,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vvk-oebb,S4,#ee1c25,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vvk-oebb,S5,#f3c836,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vvk-oebb,S6,#6d87be,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vvk-oebb,S7,#a6ce39,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
